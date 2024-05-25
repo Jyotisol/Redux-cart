@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Redux-cart.git/static/css/main.286c5ece.css",
-    "main.js": "/Redux-cart.git/static/js/main.43d1441f.js",
-    "index.html": "/Redux-cart.git/index.html",
-    "main.286c5ece.css.map": "/Redux-cart.git/static/css/main.286c5ece.css.map",
-    "main.43d1441f.js.map": "/Redux-cart.git/static/js/main.43d1441f.js.map"
+    "main.css": "/Redux-Cart-data/static/css/main.286c5ece.css",
+    "main.js": "/Redux-Cart-data/static/js/main.43d1441f.js",
+    "index.html": "/Redux-Cart-data/index.html",
+    "main.286c5ece.css.map": "/Redux-Cart-data/static/css/main.286c5ece.css.map",
+    "main.43d1441f.js.map": "/Redux-Cart-data/static/js/main.43d1441f.js.map"
   },
   "entrypoints": [
     "static/css/main.286c5ece.css",
