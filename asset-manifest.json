@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Jyotisol.github.io/react-gh-pages/static/css/main.286c5ece.css",
-    "main.js": "/Jyotisol.github.io/react-gh-pages/static/js/main.43d1441f.js",
-    "index.html": "/Jyotisol.github.io/react-gh-pages/index.html",
-    "main.286c5ece.css.map": "/Jyotisol.github.io/react-gh-pages/static/css/main.286c5ece.css.map",
-    "main.43d1441f.js.map": "/Jyotisol.github.io/react-gh-pages/static/js/main.43d1441f.js.map"
+    "main.css": "/Redux-Cart-data.git/static/css/main.286c5ece.css",
+    "main.js": "/Redux-Cart-data.git/static/js/main.43d1441f.js",
+    "index.html": "/Redux-Cart-data.git/index.html",
+    "main.286c5ece.css.map": "/Redux-Cart-data.git/static/css/main.286c5ece.css.map",
+    "main.43d1441f.js.map": "/Redux-Cart-data.git/static/js/main.43d1441f.js.map"
   },
   "entrypoints": [
     "static/css/main.286c5ece.css",
