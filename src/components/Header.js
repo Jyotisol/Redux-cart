@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
@@ -22,6 +23,7 @@ const Header = () => {
 
   const [anchorEl, setAnchorEl] = useState(null);
   const open = Boolean(anchorEl);
+  
   const handleClick = (event) => {
     setAnchorEl(event.currentTarget);
   };
@@ -35,8 +37,8 @@ const Header = () => {
 
   const total = () => {
     let price = 0;
-    getdata.map((ele) => {
-      price = ele.price * ele.qnty + price;
+    getdata.forEach((ele) => {
+      price += ele.price * ele.qnty ;
     });
 
     setPrice(price);
